@@ -18,3 +18,5 @@ int main()
     cout<<co2+min(2,co1);
     return 0;
 }
+
+
